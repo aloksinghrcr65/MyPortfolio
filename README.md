@@ -22,11 +22,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/aloksinghrcr65/MyPortfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Aloksinghrcr65](https://github.com/aloksinghrcr65/MyPortfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://aloktechportfolio.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://aloktechportfolio.vercel.app/" target="_blank">aloksingh.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
