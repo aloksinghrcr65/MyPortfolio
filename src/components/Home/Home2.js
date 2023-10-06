@@ -24,23 +24,23 @@ function Home2() {
             I have a passion for computer programming and information technology. I have used computer programming since I was in grade school. This passion has given me the ability to develop programs for a multitude of things, including programming languages, and databases.
               <br />
               <br />I am fluent in classics programming languages like
-              <i>
+              
                 <b className="purple"> C, Java, Python</b>
-              </i>
+              
               <br />I have knowledge of
-              <i>
+              
                 <b className="purple"> HTML, CSS, Javascript and React.js</b> of web development.
-              </i>
+              
               <br />              
               <br />
               My field of Interest's are building new &nbsp;
-              <i>
+              
                 <b className="purple">Artificial Intelligence and Machine Learning </b>Project and
                 also in areas related to{" "}
                 <b className="purple">
                   Front-end.
                 </b>
-              </i>
+              
               <br />
               <br />
             </p>
